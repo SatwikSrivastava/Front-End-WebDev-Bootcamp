@@ -1,2 +1,2 @@
-# Front_End_Project_Devtown_
-Created with CodeSandbox
+7 day front end bootcamp.
+Project created on CodeSandbox.
